@@ -1,0 +1,17 @@
+
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+span{
+    color: tomato;
+    font-weight: 600;
+    font-size: 23px;
+}
+button{
+    margin: 0 auto;
+    display: inherit;
+}
